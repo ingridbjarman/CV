@@ -2,6 +2,16 @@
 
 A frontend developer's backend-developing daughter. I get excited about meeting new people, and I never stop looking for new things to learn. Early last year, I was handed a laptop with a beginner's coding course set up, and I have since followed in my father's footsteps by completing an intensive coding boot camp, developing a passion for TDD and AGILE practices along the way. This has made me realise that there is more to programming than a giant wall of incomprehensible text (though there is definitely some of that too), and from the moment I printed my first “Hello World!”, I was hooked.  
 
+## Projects ##
+
+| Project | Description | Technologies used |
+|--|--|--|
+| [Route Around]([https://github.com/ingridbjarman/Route_Around](https://github.com/ingridbjarman/Route_Around)) | Location based webapp that takes your start location and desired distance and plans a circular route in a random direction, that takes you back to where you started. | Fullstack JavaScript, Node.js and Express on the backend, React on the frontend. Google Maps API, Travis CI, HTML, Bootstrap and Heroku |
+| [Thermostat app]([https://github.com/ingridbjarman/thermostat](https://github.com/ingridbjarman/thermostat)) | Weekly project from week 5 of Makers. Simulation of a thermostat, with the option to toggle a "power saving mode" on and off to limit the temperature range. Also displays weather forecasts, to allow for adjusting of the indoor temperature based on weather. | JavaScript and jQuery, HTML and CSS. API for weather forecasts for different locations.|
+| [Bowling Scorecard]([https://github.com/ingridbjarman/bowling-challenge](https://github.com/ingridbjarman/bowling-challenge)) | A functioning bowling scorecard, the weekend challenge from week 5 of Makers. | JavaScript and jQuery, HTML and CSS |
+| [Acebook - The Anti-Social Network]([https://github.com/ingridbjarman/acebook-antisocial-network](https://github.com/ingridbjarman/acebook-antisocial-network)) | Facebook clone project, from weeks 8-9 of Makers. | Ruby, Rails, ActiveRecord, HTML, Bootstrap, PostgreSQL, CircleCI |
+
+
 ## [](https://github.com/ingridbjarman/CV#skills)Skills
 
 #### [](https://github.com/ingridbjarman/CV#problem-solving)Problem Solving
