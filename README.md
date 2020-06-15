@@ -1,16 +1,13 @@
 ## Ingrid Bjarman
 
-A frontend developer's backend-developing daughter. I get excited about meeting new people, and I never stop looking for new things to learn. Early last year, I was handed a laptop with a beginner's coding course set up, and I have since followed in my father's footsteps by completing an intensive coding boot camp, developing a passion for TDD and AGILE practices along the way. This has made me realise that there is more to programming than a giant wall of incomprehensible text (though there is definitely some of that too), and from the moment I printed my first “Hello World!”, I was hooked.  
+I am an eager and attentive software engineer, excited by both front end and back end development. I thrive in lively environments. I love to learn new things and meet new people. After starting some small Python projects in early 2019, I discovered a big interest in programming and decided to take the first steps toward a career change soon after.
 
 ## Projects ##
 
 | Project | Description | Technologies used |
 |--|--|--|
-| [Route Around](https://github.com/ingridbjarman/Route_Around) | Location based webapp that takes your start location and desired distance and plans a circular route in a random direction, that takes you back to where you started. | Fullstack JavaScript, Node.js and Express on the backend, React on the frontend. Google Maps API, Travis CI, HTML, Bootstrap and Heroku |
-| [Thermostat app](https://github.com/ingridbjarman/thermostat) | Weekly project from week 5 of Makers. Simulation of a thermostat, with the option to toggle a "power saving mode" on and off to limit the temperature range. Also displays weather forecasts, to allow for adjusting of the indoor temperature based on weather. | JavaScript and jQuery, HTML and CSS. API for weather forecasts for different locations.|
-| [Bowling Scorecard](https://github.com/ingridbjarman/bowling-challenge) | A functioning bowling scorecard, the weekend challenge from week 5 of Makers. | JavaScript and jQuery, HTML and CSS |
-| [Acebook - The Anti-Social Network](https://github.com/ingridbjarman/acebook-antisocial-network) | Facebook clone project, from weeks 8-9 of Makers. | Ruby, Rails, ActiveRecord, HTML, Bootstrap, PostgreSQL, CircleCI |
-
+| [Route Around]([https://github.com/ingridbjarman/Route_Around](https://github.com/ingridbjarman/Route_Around)) | Location based webapp that takes your start location and desired distance and plans a circular route in a random direction, that takes you back to where you started. | Fullstack JavaScript, Node.js and Express on the backend, React on the frontend. Google Maps API, Travis CI, HTML, Bootstrap and Heroku |
+| [Game of Memory]([[https://github.com/ingridbjarman/memoryGame](https://github.com/ingridbjarman/memoryGame)]([https://github.com/ingridbjarman/memoryGame](https://github.com/ingridbjarman/memoryGame))) | A quick game of memory. using a random selection of cat photos, using the CatAPI | JavaScript and CSS, the [catAPI](https://thecatapi.com/)|
 
 ## [](https://github.com/ingridbjarman/CV#skills)Skills
 
@@ -63,7 +60,7 @@ Three-year program, pre-university education.
 
 _Au pair/Nanny_
 
--   Au paired for one year, before moving on to full time nannying. My role was vital to solving the jigsaw that was day to day life for a family with two working parents. Duties included light housekeeping, pick up from school and extracurricular activities, and dinner and evening routines.
+-   Au paired for one year, before moving on to full time nannying. My role was vital to solving the jigsaw that is day to day life for a family with two working parents. Duties included light housekeeping, pick up from school and extracurricular activities, and dinner and evening routines.
 
 **Uppsala City Council**  (June 2015 - August 2015)
 
