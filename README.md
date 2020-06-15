@@ -6,8 +6,8 @@ I am an eager and attentive software engineer, excited by both front end and bac
 
 | Project | Description | Technologies used |
 |--|--|--|
-| [Route Around]([https://github.com/ingridbjarman/Route_Around](https://github.com/ingridbjarman/Route_Around)) | Location based webapp that takes your start location and desired distance and plans a circular route in a random direction, that takes you back to where you started. | Fullstack JavaScript, Node.js and Express on the backend, React on the frontend. Google Maps API, Travis CI, HTML, Bootstrap and Heroku |
-| [Game of Memory]([[https://github.com/ingridbjarman/memoryGame](https://github.com/ingridbjarman/memoryGame)]([https://github.com/ingridbjarman/memoryGame](https://github.com/ingridbjarman/memoryGame))) | A quick game of memory. using a random selection of cat photos, using the CatAPI | JavaScript and CSS, the [catAPI](https://thecatapi.com/)|
+| [Route Around](https://github.com/ingridbjarman/Route_Around) | Location based webapp that takes your start location and desired distance and plans a circular route in a random direction, that takes you back to where you started. | Fullstack JavaScript, Node.js and Express on the backend, React on the frontend. Google Maps API, Travis CI, HTML, Bootstrap and Heroku |
+|[Game of Memory](https://github.com/ingridbjarman/memoryGame) | A quick game of memory. using a random selection of cat photos, using the CatAPI | JavaScript and CSS, the [catAPI](https://thecatapi.com/)|
 
 ## [](https://github.com/ingridbjarman/CV#skills)Skills
 
